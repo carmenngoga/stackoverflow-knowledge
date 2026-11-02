@@ -1,2 +1,2 @@
-# stackoverflow-knowledge-network
+# stackoverflow knowledge
 COSC 329 project
